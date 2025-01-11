@@ -8,6 +8,8 @@ This project is a playground for experimenting and exploring Rails. The database
 2. Run `bin/rails db:setup`.
 3. Run `bin/rails server`.
 
+Run `rails generate scaffold ...` to scaffold an entire resource, from model and migration to controller andviews, along with a full test suite. The resource is ready to use as a starting point for your RESTful, resource-oriented application.
+
 ## Database
 
 The database is PostgreSQL. The database is created in the `db/seeds.rb` file.
