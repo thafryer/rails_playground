@@ -33,6 +33,7 @@ If you want changes in the console to not affect the database run `bin/rails con
 - [ ] Add Sentry
 - [ ] Add Codecov
 - [ ] Add simple background job with Sidekiq
+- [ ] Experiment with [Fabrication](https://fabricationgem.org/)
 
 Things you may want to cover:
 
